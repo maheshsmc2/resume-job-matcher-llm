@@ -1,3 +1,19 @@
+# 🧠 Resume + Job Matcher using GPT
+
+This app uses OpenAI's GPT to analyze a resume and return the best-matched job description with reasoning.
+
+## 🔍 Features
+- Paste your resume + job descriptions
+- Uses GPT-3.5/4 for analysis
+- Secure API key entry
+- Streamlit interface
+
+## 🚀 Run Locally
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+
+
 ---
 title: Resume + Job Matcher GPT
 emoji: 🧠
