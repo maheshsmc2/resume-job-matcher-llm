@@ -1,6 +1,8 @@
 # 🧠 Resume + Job Matcher using GPT
 
 This app uses OpenAI's GPT to analyze a resume and return the best-matched job description with reasoning.
+🎯 [Live Demo on Hugging Face](https://huggingface.co/spaces/maheshsmc/resume-job-matcher-llm)
+
 
 ## 🔍 Features
 - Paste your resume + job descriptions
